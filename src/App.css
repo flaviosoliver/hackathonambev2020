@@ -6,3 +6,15 @@ body {
   margin: auto;
   font-family: Nunito;
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color:rgb(24, 69, 192)
+}
+
+a:hover {
+  font-weight: bold;
+}
